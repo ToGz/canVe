@@ -18,10 +18,7 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: | 
-        dir
-        dotnet restore
-      working-directory: ProductAPI
+      run: dotnet restore
     - name: Build
       run: dotnet build --no-restore
     - name: Test
