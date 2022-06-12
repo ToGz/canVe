@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'canve'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_50DA5A5114B14B24B2AC5CD00652ACE5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_318FB76728E047AC98A558911A93D1A5 }}
           package: .
