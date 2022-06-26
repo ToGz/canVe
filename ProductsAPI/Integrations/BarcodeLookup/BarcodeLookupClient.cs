@@ -24,7 +24,7 @@ namespace ProductsAPI.Integrations
                     formatted = "y",
                     search
                 })
-                .GetJsonAsync<Rootobject>();
+                .GetJsonAsync<BarcodeLookupContract>();
         }
 
         public async void FindProductByBarcode(string barcode)
@@ -38,7 +38,7 @@ namespace ProductsAPI.Integrations
                     formatted = "y",
                     barcode
                 })
-                .GetJsonAsync<Rootobject>();
+                .GetJsonAsync<BarcodeLookupContract>();
         }
     }
 }

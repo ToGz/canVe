@@ -1,5 +1,5 @@
 ﻿
-public class Rootobject
+public class BarcodeLookupContract
 {
     public BarcodeLookupProduct[] products { get; set; }
 }
@@ -36,11 +36,11 @@ public class BarcodeLookupProduct
     public object[] features { get; set; }
     public string[] images { get; set; }
     public string last_update { get; set; }
-    public Store[] stores { get; set; }
+    public BarcodeLookupStore[] stores { get; set; }
     public object[] reviews { get; set; }
 }
 
-public class Store
+public class BarcodeLookupStore
 {
     public string name { get; set; }
     public string country { get; set; }

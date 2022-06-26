@@ -14,7 +14,7 @@ namespace ProductsAPI.Integrations.BarcodeLookup.BarcodeLookupMock
             SearchLocalMockRepo(barcode);
         }
 
-        private Rootobject SearchLocalMockRepo(string search)
+        private BarcodeLookupContract SearchLocalMockRepo(string search)
         {
             var files = Directory.GetFiles("Integrations/BarcodeLookup/BarcodeLookupMock/ResultsMock");
 
@@ -24,12 +24,12 @@ namespace ProductsAPI.Integrations.BarcodeLookup.BarcodeLookupMock
                 .FirstOrDefault();
 
             if (res is null)
-                return new Rootobject();
+                return new BarcodeLookupContract();
 
             using var r = new StreamReader(res);
 
             string json = r.ReadToEnd();
-            var items = JsonConvert.DeserializeObject<Rootobject>(json);
+            var items = JsonConvert.DeserializeObject<BarcodeLookupContract>(json);
 
             return items;
         }
