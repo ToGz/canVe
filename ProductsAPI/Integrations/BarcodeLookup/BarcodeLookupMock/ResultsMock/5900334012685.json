@@ -1,0 +1,101 @@
+﻿{
+  "products": [
+    {
+      "barcode_number": "5900334012685",
+      "barcode_formats": "EAN-13 5900334012685",
+      "mpn": "",
+      "model": "",
+      "asin": "",
+      "title": "Tymbark Sok 100% Pomaraczowy 1 L",
+      "category": "",
+      "manufacturer": "Tymbark",
+      "brand": "Tymbark",
+      "contributors": [],
+      "age_group": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "energy_efficiency_class": "",
+      "color": "",
+      "gender": "",
+      "material": "",
+      "pattern": "",
+      "format": "",
+      "multipack": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Sok Pomaraczowy Tymbark to wszystko to, co najlepsze z pomaraczy w formie pysznego soku. Wyprodukowany z najokazalszych, soczystych owocw z brazylijskich plantacji w regionie Matao. Na jeden litr soku zuywane jest a 2,5 kg pomaraczy. Jest doskonaym rdem witam na kad por dnia.",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/23883/238835177-1.jpg"
+      ],
+      "last_update": "2022-04-05 23:34:36",
+      "stores": [
+        {
+          "name": "Auchan Direct PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "3.48",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://www.auchandirect.pl/auchan-warszawa/pl/tymbark-sok-pomaranczowy/p-98500423",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2021-06-22 07:35:36"
+        },
+        {
+          "name": "Bee PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "4.99",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://www.bee.pl/tymbark-sok-pomaranczowy-1-l_p1143016.html?utm_source=awin&utm_medium=cps&utm_campaign=products_feed",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-21 16:43:54"
+        },
+        {
+          "name": "Polski koszyk PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "4.79",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://polskikoszyk.pl/tymbark-sok-100-pomaranczowy-1-l.html",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-05 23:34:36"
+        },
+        {
+          "name": "DlaBiura24 PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "5.93",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://dlabiura24.pl/sok-tymbark-1l-pomaranczowy-100",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "new",
+          "shipping": [],
+          "last_update": "2022-04-22 01:38:04"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}

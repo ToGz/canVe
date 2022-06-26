@@ -1,0 +1,71 @@
+﻿{
+  "products": [
+    {
+      "barcode_number": "5901044014044",
+      "barcode_formats": "EAN-13 5901044014044",
+      "mpn": "",
+      "model": "",
+      "asin": "",
+      "title": "Roleski Sos Hamburger 240 Ml",
+      "category": "",
+      "manufacturer": "Roleski",
+      "brand": "Roleski",
+      "contributors": [],
+      "age_group": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "energy_efficiency_class": "",
+      "color": "",
+      "gender": "",
+      "material": "",
+      "pattern": "",
+      "format": "",
+      "multipack": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Firma Roleski Sos do hamburgerów. Słoik 205 g 205 g Znak przekreślonego kłosa Znak przekreślonego kłosa - PL-002-022 Zawartość netto 205 g e / 240 ml, Znak przekreślonego kłosa - PL-002-022, Wyprodukowano w Polsce.",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/23883/238833177-1.jpg"
+      ],
+      "last_update": "2022-04-05 23:35:04",
+      "stores": [
+        {
+          "name": "Auchan Direct PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "3.85",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://www.auchandirect.pl/auchan-warszawa/pl/roleski-sos-do-hamburgerow/p-96500230",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "new",
+          "shipping": [],
+          "last_update": "2022-02-27 01:49:29"
+        },
+        {
+          "name": "Polski koszyk PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "4.69",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://polskikoszyk.pl/roleski-sos-hamburger-240-ml.html",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-05 23:35:04"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}

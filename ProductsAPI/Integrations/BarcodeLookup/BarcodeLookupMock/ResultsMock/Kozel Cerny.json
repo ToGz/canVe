@@ -1,0 +1,108 @@
+﻿{
+  "products": [
+    {
+      "barcode_number": "5901359074306",
+      "barcode_formats": "EAN-13 5901359074306",
+      "mpn": "",
+      "model": "",
+      "asin": "",
+      "title": "Piwo Kozel Cerny Puszka 500ml",
+      "category": "",
+      "manufacturer": "Kozel",
+      "brand": "Kozel",
+      "contributors": [],
+      "age_group": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "energy_efficiency_class": "",
+      "color": "",
+      "gender": "",
+      "material": "",
+      "pattern": "",
+      "format": "",
+      "multipack": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Velkopopovick Kozel ern to tradycyjne czeskie piwo warzone przy uyciu specjalnej mieszanki ciemnych sodw, ktre nadaj mu unikalny rubinowy kolor i delikatnie sodki smak.Zawarto alkoholu: 3,8% obj.",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/30066/300661868-1.jpg"
+      ],
+      "last_update": "2022-04-05 23:35:17",
+      "stores": [
+        {
+          "name": "Polski koszyk PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "4.09",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://polskikoszyk.pl/piwo-kozel-cerny-puszka-500ml.html",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-05 23:35:17"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "barcode_number": "5901359074757",
+      "barcode_formats": "EAN-13 5901359074757",
+      "mpn": "",
+      "model": "",
+      "asin": "",
+      "title": "Piwo Kozel Cerny Butelka 500ml",
+      "category": "",
+      "manufacturer": "Kozel",
+      "brand": "Kozel",
+      "contributors": [],
+      "age_group": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "energy_efficiency_class": "",
+      "color": "",
+      "gender": "",
+      "material": "",
+      "pattern": "",
+      "format": "",
+      "multipack": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Velkopopovick Kozel ern to tradycyjne czeskie piwo warzone przy uyciu specjalnej mieszanki ciemnych sodw, ktre nadaj mu unikalny rubinowy kolor i delikatnie sodki smak.Zawarto alkoholu: 3,8% obj.",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/30066/300661760-1.jpg"
+      ],
+      "last_update": "2022-04-05 23:35:17",
+      "stores": [
+        {
+          "name": "Polski koszyk PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "3.99",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://polskikoszyk.pl/piwo-kozel-cerny-butelka-500ml.html",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-05 23:35:17"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}

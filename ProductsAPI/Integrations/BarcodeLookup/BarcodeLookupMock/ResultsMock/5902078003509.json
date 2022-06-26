@@ -1,0 +1,87 @@
+﻿{
+  "products": [
+    {
+      "barcode_number": "5902078003509",
+      "barcode_formats": "EAN-13 5902078003509",
+      "mpn": "",
+      "model": "",
+      "asin": "",
+      "title": "Cisowianka Perlage Woda Mineralna Musujca 0,7 L Plastik",
+      "category": "",
+      "manufacturer": "Cisowianka",
+      "brand": "Cisowianka",
+      "contributors": [],
+      "age_group": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "energy_efficiency_class": "",
+      "color": "",
+      "gender": "",
+      "material": "",
+      "pattern": "",
+      "format": "",
+      "multipack": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Cisowianka to naturalna woda mineralna pochodzca z naczowskich pokadw wodononych. Jej historia jest nierozerwalnie zwizana z miejscem wydobycia zielonym regionem Paskowyu Naczowskiego. Nizinny klimat, urocze i ciche zaktki to miejsce gwarantujce naszej wodzie harmoni mineraw, krystaliczn czysto i unikalny smak. Wysok jako naszych produktw, oprcz zastosowania najnowoczeniejszych linii do butelkowania wody, zapewnia rygorystyczny, wieloetapowy system kontroli produkcji, ktry nie pozwala dopuci do sprzeday produktw, ktre nie zostay poddane badaniom laboratoryjnym. Nasza woda jest rwnie systematycznie badana w niezalenych laboratoriach, takich jak Sanepid, Pastwowy Zakad Higieny w Poznaniu. Posiadamy wdroony system zapewnienia bezpieczestwa zdrowotnego ywnoci HACCP. Wszystko to gwarantuje stabiln, wysok jako naszej wody.",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/23895/238955294-1.jpg",
+        "https://images.barcodelookup.com/23895/238955294-2.jpg"
+      ],
+      "last_update": "2022-04-05 23:34:38",
+      "stores": [
+        {
+          "name": "Bee PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "1.99",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://www.bee.pl/cisowianka-perlage-naturalna-woda-mineralna-musujaca-700-ml_p1154886.html?utm_source=awin&utm_medium=cps&utm_campaign=products_feed",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-21 16:44:06"
+        },
+        {
+          "name": "Polski koszyk PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "1.99",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://polskikoszyk.pl/cisowianka-perlage-woda-mineralna-musujaca-0-7-l-plastik.html",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-05 23:34:38"
+        },
+        {
+          "name": "Motointegrator DE",
+          "country": "EU",
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "price": "18.35",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://www.motointegrator.de/artikel/1289653-gehaeuse-aussenspiegel-pacol-sca-mr-010r?utm_source=awin&utm_medium=afiliate&utm_content=feed&utm_campaign=awin",
+          "item_group_id": "",
+          "availability": "in stock",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-23 02:22:21"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}

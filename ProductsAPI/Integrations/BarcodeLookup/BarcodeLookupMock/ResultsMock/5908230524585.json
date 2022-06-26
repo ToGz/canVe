@@ -1,0 +1,72 @@
+﻿{
+  "products": [
+    {
+      "barcode_number": "5908230524585",
+      "barcode_formats": "EAN-13 5908230524585",
+      "mpn": "",
+      "model": "",
+      "asin": "",
+      "title": "Tarczyski Kabanos Exclusive Easy Wieprzowy 95 G",
+      "category": "",
+      "manufacturer": "Tarczyski",
+      "brand": "Tarczyski",
+      "contributors": [],
+      "age_group": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "energy_efficiency_class": "",
+      "color": "",
+      "gender": "",
+      "material": "",
+      "pattern": "",
+      "format": "",
+      "multipack": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Firma Tarczyski S.A. jest niekwestionowanym liderem w produkcji kabanosw oraz czoowym producentem wysokojakociowych wdlin z segmentu premium. Produkcja wyrobw odbywa si w jednym z najnowoczeniejszych parkw maszynowych w Europie zlokalizowanym w zakadzie w Ujedcu Maym oraz w drugim wyspecjalizowanym zakadzie w Bielsku Biaej. Dziki rodzinnej pasji, wiedzy, a take innowacyjnemu spojrzeniu na bran misn, firma Tarczyski ju od ponad 25 lat dostarcza zarwno na polskie, jak i zagraniczne stoy wdliny o najwyszej jakoci i unikalnych walorach smakowych.",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/24106/241069138-1.jpg",
+        "https://images.barcodelookup.com/24106/241069138-2.jpg"
+      ],
+      "last_update": "2022-04-21 17:14:05",
+      "stores": [
+        {
+          "name": "Bee PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "5.95",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://www.bee.pl/tarczynski-kabanos-exclusive-paluszki-wieprzowe-95-g_p1407778.html?utm_source=awin&utm_medium=cps&utm_campaign=products_feed",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-21 16:46:07"
+        },
+        {
+          "name": "Polski koszyk PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "8.49",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://polskikoszyk.pl/tarczynski-kabanos-exclusive-easy-wieprzowy-95-g.html",
+          "item_group_id": "",
+          "availability": "in stock",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2021-08-19 10:35:01"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}

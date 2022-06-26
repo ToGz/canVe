@@ -1,0 +1,56 @@
+﻿{
+  "products": [
+    {
+      "barcode_number": "5901359074269",
+      "barcode_formats": "EAN-13 5901359074269",
+      "mpn": "",
+      "model": "",
+      "asin": "",
+      "title": "Piwo Kozel Lezak Puszka 500 Ml",
+      "category": "",
+      "manufacturer": "Kozel",
+      "brand": "Kozel",
+      "contributors": [],
+      "age_group": "",
+      "ingredients": "",
+      "nutrition_facts": "",
+      "energy_efficiency_class": "",
+      "color": "",
+      "gender": "",
+      "material": "",
+      "pattern": "",
+      "format": "",
+      "multipack": "",
+      "size": "",
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "release_date": "",
+      "description": "Tradycyjny, czeski lager charakteryzujcy si peni smaku, za ktr odpowiada poczenie trzech rodzajw sodu z delikatn, chmielow goryczk. Harmonijna kompozycja odpowiedniego poziomu ekstraktu, aromatu i nagazowania sprawia, e wypiwszy Kozla, a chce si sign po kolejnego i od nowa odkrywa autentyczny, czeski smak.Zawarto alkoholu: 4,6% obj.",
+      "features": [],
+      "images": [
+        "https://images.barcodelookup.com/30066/300661836-1.jpg"
+      ],
+      "last_update": "2022-04-05 23:35:17",
+      "stores": [
+        {
+          "name": "Polski koszyk PL",
+          "country": "PL",
+          "currency": "PLN",
+          "currency_symbol": "zł",
+          "price": "4.09",
+          "sale_price": "",
+          "tax": [],
+          "link": "https://polskikoszyk.pl/piwo-kozel-lezak-puszka-500-ml.html",
+          "item_group_id": "",
+          "availability": "",
+          "condition": "",
+          "shipping": [],
+          "last_update": "2022-04-05 23:35:17"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}
