@@ -2,7 +2,7 @@
 
 namespace ProductsAPI.Integrations.BarcodeLookup.BarcodeLookupMock
 {
-    public class BarcodeLookupClientMock
+    public class BarcodeLookupClientMock : ILookupClient
     {
         public async void FindProductByKeywords(string search)
         {

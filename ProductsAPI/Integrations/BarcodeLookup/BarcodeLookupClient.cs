@@ -3,7 +3,7 @@ using Flurl.Http;
 
 namespace ProductsAPI.Integrations
 {
-    public class BarcodeLookupClient
+    public class BarcodeLookupClient : ILookupClient
     {
         private string _BaseUrl { get; } = "https://api.barcodelookup.com/v3";
         private string _Key { get; }
